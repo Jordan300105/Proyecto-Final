@@ -7,4 +7,3 @@ Estructura:
 
 Todos los datos fueron generados automáticamente por el equipo, basados en archivos .md de las mallas oficiales de la universidad.
 
-Autoría: [Tu Nombre o Código]
